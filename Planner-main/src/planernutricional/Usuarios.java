@@ -5,112 +5,111 @@ package planernutricional;
  */
 public class Usuarios {
 
-    private int id, periodo;
-    private String nombre, machine_id, selected_food_ids;
-    private float masa, calorias, proteinas, carbohidratos, sugar, grasa, fibra, calcio;
+  private int id, periodo;
+  private String nombre, machine_id, selected_food_ids;
+  private float masa, calorias, proteinas, carbohidratos, sugar, grasa, fibra, calcio;
 
-    public float getGrasa() {
-        return grasa;
-    }
+  public float getGrasa() {
+    return grasa;
+  }
 
-    public void setGrasa(float grasa) {
-        this.grasa = grasa;
-    }
+  public void setGrasa(float grasa) {
+    this.grasa = grasa;
+  }
 
-    public float getSugar() {
-        return sugar;
-    }
+  public float getSugar() {
+    return sugar;
+  }
 
-    public void setSugar(float sugar) {
-        this.sugar = sugar;
-    }
+  public void setSugar(float sugar) {
+    this.sugar = sugar;
+  }
 
-    public String getSelected_food_ids() {
-        return selected_food_ids;
-    }
+  public String getSelected_food_ids() {
+    return selected_food_ids;
+  }
 
-    public void setSelected_food_ids(String selected_food_ids) {
-        this.selected_food_ids = selected_food_ids;
-    }
-    
-    public String getMachine_id() {
-        return machine_id;
-    }
+  public void setSelected_food_ids(String selected_food_ids) {
+    this.selected_food_ids = selected_food_ids;
+  }
 
-    public void setMachine_id(String machine_id) {
-        this.machine_id = machine_id;
-    }
-    
-    public int getPeriodo() {
-        return periodo;
-    }
+  public String getMachine_id() {
+    return machine_id;
+  }
 
-    public void setPeriodo(int periodo) {
-        this.periodo = periodo;
-    }
+  public void setMachine_id(String machine_id) {
+    this.machine_id = machine_id;
+  }
 
-    public float getMasa() {
-        return masa;
-    }
+  public int getPeriodo() {
+    return periodo;
+  }
 
-    public void setMasa(float masa) {
-        this.masa = masa;
-    }
+  public void setPeriodo(int periodo) {
+    this.periodo = periodo;
+  }
 
-    public int getId() {
-        return id;
-    }
+  public float getMasa() {
+    return masa;
+  }
 
-    public void setId(int id) {
-        this.id = id;
-    }
+  public void setMasa(float masa) {
+    this.masa = masa;
+  }
 
-    public String getNombre() {
-        return nombre;
-    }
+  public int getId() {
+    return id;
+  }
 
-    public void setNombre(String nombre) {
-        this.nombre = nombre;
-    }
+  public void setId(int id) {
+    this.id = id;
+  }
 
-    public float getCalorias() {
-        return calorias;
-    }
+  public String getNombre() {
+    return nombre;
+  }
 
-    public void setCalorias(float calorias) {
-        this.calorias = calorias;
-    }
+  public void setNombre(String nombre) {
+    this.nombre = nombre;
+  }
 
-    public float getProteinas() {
-        return proteinas;
-    }
+  public float getCalorias() {
+    return calorias;
+  }
 
-    public void setProteinas(float proteinas) {
-        this.proteinas = proteinas;
-    }
+  public void setCalorias(float calorias) {
+    this.calorias = calorias;
+  }
 
-    public float getCarbohidratos() {
-        return carbohidratos;
-    }
+  public float getProteinas() {
+    return proteinas;
+  }
 
-    public void setCarbohidratos(float carbohidratos) {
-        this.carbohidratos = carbohidratos;
-    }
+  public void setProteinas(float proteinas) {
+    this.proteinas = proteinas;
+  }
 
-    public float getFibra() {
-        return fibra;
-    }
+  public float getCarbohidratos() {
+    return carbohidratos;
+  }
 
-    public void setFibra(float fibra) {
-        this.fibra = fibra;
-    }
+  public void setCarbohidratos(float carbohidratos) {
+    this.carbohidratos = carbohidratos;
+  }
 
-    public float getCalcio() {
-        return calcio;
-    }
+  public float getFibra() {
+    return fibra;
+  }
 
-    public void setCalcio(float calcio) {
-        this.calcio = calcio;
-    }
+  public void setFibra(float fibra) {
+    this.fibra = fibra;
+  }
 
+  public float getCalcio() {
+    return calcio;
+  }
+
+  public void setCalcio(float calcio) {
+    this.calcio = calcio;
+  }
 }
