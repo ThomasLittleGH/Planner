@@ -35,7 +35,7 @@ public class Main extends javax.swing.JFrame implements ActionListener {
       bVitK,
       bFibra,
       bCalcio; // Con el fin de optimizar el destacamiento de botones los organizo en arreglos una
-               // vez inicie la aplicación
+  // vez inicie la aplicación
   public List<JProgressBar> barras;
 
   // Creo a conexion con la base de datos
