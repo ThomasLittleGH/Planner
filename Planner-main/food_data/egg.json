@@ -1,0 +1,79 @@
+{
+  "status": "Success",
+  "data": {
+    "name": "Cow Milk",
+    "count": {
+      "generalItemsCount": 7,
+      "mineralItemCount": 3,
+      "vitaminItemCount": 1
+    },
+    "totalNutritionValue": {
+      "totalNutrients": 80.14099999999999,
+      "totGNutrition": 78.67699999999999,
+      "totMNutrition": 1.464,
+      "totVNutrition": 0
+    },
+    "source": "Branded",
+    "generalItems": [
+      {
+        "nutrientName": "Energy",
+        "nutrientValue": 17,
+        "unit": "KCAL"
+      },
+      {
+        "nutrientName": "Total lipid (fat)",
+        "nutrientValue": 0,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Protein",
+        "nutrientValue": 4,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Fatty acids, total saturated",
+        "nutrientValue": 0,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Carbohydrate, by difference",
+        "nutrientValue": 0.8,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Sugars, total including NLEA",
+        "nutrientValue": 0,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Fiber, total dietary",
+        "nutrientValue": 0,
+        "unit": "G"
+      }
+    ],
+    "mineralItems": [
+      {
+        "nutrientName": "Calcium, Ca",
+        "nutrientValue": 15,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Sodium, Na",
+        "nutrientValue": 37,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Iron, Fe",
+        "nutrientValue": 0,
+        "unit": "MG"
+      }
+    ],
+    "vitaminItems": [
+      {
+        "nutrientName": "Vitamin C, total ascorbic acid",
+        "nutrientValue": 0,
+        "unit": "MG"
+      }
+    ]
+  }
+}

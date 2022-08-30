@@ -1,0 +1,78 @@
+{
+  "status": "Success",
+  "data": {
+    "name": "ORGANIC",
+    "count": {
+      "generalItemsCount": 7,
+      "mineralItemCount": 4,
+      "vitaminItemCount": 0
+    },
+    "totalNutritionValue": {
+      "totalNutrients": 32.060449999999996,
+      "totGNutrition": 31.509999999999998,
+      "totMNutrition": 0.55045,
+      "totVNutrition": 0
+    },
+    "source": "Branded",
+    "generalItems": [
+      {
+        "nutrientName": "Total lipid (fat)",
+        "nutrientValue": 15.9,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Carbohydrate, by difference",
+        "nutrientValue": 40,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Protein",
+        "nutrientValue": 7.22,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Sugars, total including NLEA",
+        "nutrientValue": 2.03,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Fatty acids, total saturated",
+        "nutrientValue": 2.03,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Fiber, total dietary",
+        "nutrientValue": 1.4,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Energy",
+        "nutrientValue": 219,
+        "unit": "KCAL"
+      }
+    ],
+    "mineralItems": [
+      {
+        "nutrientName": "Potassium, K",
+        "nutrientValue": 345,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Sodium, Na",
+        "nutrientValue": 168,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Calcium, Ca",
+        "nutrientValue": 19.2,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Iron, Fe",
+        "nutrientValue": 1.45,
+        "unit": "MG"
+      }
+    ],
+    "vitaminItems": []
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "status": "Success",
+  "data": {
+    "name": "Butter",
+    "count": {
+      "generalItemsCount": 9,
+      "mineralItemCount": 8,
+      "vitaminItemCount": 5
+    },
+    "totalNutritionValue": {
+      "totalNutrients": 109.785432,
+      "totGNutrition": 108.02051,
+      "totMNutrition": 1.7647699999999997,
+      "totVNutrition": 0.00015199999999999998
+    },
+    "source": "SR Legacy",
+    "generalItems": [
+      {
+        "nutrientName": "Energy",
+        "nutrientValue": 35.8,
+        "unit": "KCAL"
+      },
+      {
+        "nutrientName": "Total lipid (fat)",
+        "nutrientValue": 4,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Carbohydrate, by difference",
+        "nutrientValue": 0.003,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Protein",
+        "nutrientValue": 0.043,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Fiber, total dietary",
+        "nutrientValue": 0,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Fatty acids, total saturated",
+        "nutrientValue": 2.57,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Riboflavin",
+        "nutrientValue": 0.51,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Folic acid",
+        "nutrientValue": 0,
+        "unit": "UG"
+      },
+      {
+        "nutrientName": "Cholesterol",
+        "nutrientValue": 0,
+        "unit": "MG"
+      }
+    ],
+    "mineralItems": [
+      {
+        "nutrientName": "Phosphorus, P",
+        "nutrientValue": 752,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Calcium, Ca",
+        "nutrientValue": 420,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Potassium, K",
+        "nutrientValue": 414,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Magnesium, Mg",
+        "nutrientValue": 96,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Sodium, Na",
+        "nutrientValue": 32,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Zinc, Zn",
+        "nutrientValue": 4.64,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Iron, Fe",
+        "nutrientValue": 2.51,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Copper, Cu",
+        "nutrientValue": 1.62,
+        "unit": "MG"
+      }
+    ],
+    "vitaminItems": [
+      {
+        "nutrientName": "Vitamin A, RAE",
+        "nutrientValue": 3,
+        "unit": "UG"
+      },
+      {
+        "nutrientName": "Vitamin B-6",
+        "nutrientValue": 0.149,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Vitamin D (D2 + D3)",
+        "nutrientValue": 0,
+        "unit": "UG"
+      },
+      {
+        "nutrientName": "Vitamin C, total ascorbic acid",
+        "nutrientValue": 0,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Vitamin B-12",
+        "nutrientValue": 0,
+        "unit": "UG"
+      }
+    ]
+  }
+}

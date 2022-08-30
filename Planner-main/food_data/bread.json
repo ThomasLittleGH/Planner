@@ -1,0 +1,89 @@
+{
+  "status": "Success",
+  "data": {
+    "name": "BREAD",
+    "count": {
+      "generalItemsCount": 7,
+      "mineralItemCount": 4,
+      "vitaminItemCount": 1
+    },
+    "totalNutritionValue": {
+      "totalNutrients": 40.42932,
+      "totGNutrition": 39.879,
+      "totMNutrition": 0.55032,
+      "totVNutrition": 0
+    },
+    "source": "Foundation",
+    "generalItems": [
+      {
+        "nutrientName": "Cholesterol",
+        "nutrientValue": 49,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Energy",
+        "nutrientValue": 267,
+        "unit": "KCAL"
+      },
+      {
+        "nutrientName": "Carbohydrate, by difference",
+        "nutrientValue": 49.2,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Protein",
+        "nutrientValue": 9.49,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Sugars, total including NLEA",
+        "nutrientValue": 5.34,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Fiber, total dietary",
+        "nutrientValue": 2.3,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Total lipid (fat)",
+        "nutrientValue": 0.88,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Fatty acids, total saturated",
+        "nutrientValue": 0.8,
+        "unit": "G"
+      }
+    ],
+    "mineralItems": [
+      {
+        "nutrientName": "Sodium, Na",
+        "nutrientValue": 504,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Calcium, Ca",
+        "nutrientValue": 211,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Iron, Fe",
+        "nutrientValue": 0.32,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Potassium, K",
+        "nutrientValue": 0,
+        "unit": "MG"
+      }
+    ],
+    "vitaminItems": [
+      {
+        "nutrientName": "Vitamin C, total ascorbic acid",
+        "nutrientValue": 0,
+        "unit": "MG"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "status": "Success",
+  "data": {
+    "name": "STEAK",
+    "count": {
+      "generalItemsCount": 7,
+      "mineralItemCount": 4,
+      "vitaminItemCount": 0
+    },
+    "totalNutritionValue": {
+      "totalNutrients": 31.430199999999996,
+      "totGNutrition": 31.148999999999997,
+      "totMNutrition": 0.2812,
+      "totVNutrition": 0
+    },
+    "source": "Branded",
+    "generalItems": [
+      {
+        "nutrientName": "Carbohydrate, by difference",
+        "nutrientValue": 0,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Energy",
+        "nutrientValue": 763,
+        "unit": "KCAL"
+      },
+      {
+        "nutrientName": "Protein",
+        "nutrientValue": 98,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Total lipid (fat)",
+        "nutrientValue": 41.59,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Fatty acids, total saturated",
+        "nutrientValue": 3.53,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Sugars, total including NLEA",
+        "nutrientValue": 1.77,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Fiber, total dietary",
+        "nutrientValue": 0.4,
+        "unit": "G"
+      }
+    ],
+    "mineralItems": [
+      {
+        "nutrientName": "Sodium, Na",
+        "nutrientValue": 205,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Potassium, K",
+        "nutrientValue": 64,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Calcium, Ca",
+        "nutrientValue": 68,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Iron, Fe",
+        "nutrientValue": 1.2,
+        "unit": "MG"
+      }
+    ],
+    "vitaminItems": []
+  }
+}

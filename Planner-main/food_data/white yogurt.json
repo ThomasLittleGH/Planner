@@ -1,0 +1,79 @@
+{
+  "status": "Success",
+  "data": {
+    "name": "Yogurt",
+    "count": {
+      "generalItemsCount": 7,
+      "mineralItemCount": 3,
+      "vitaminItemCount": 1
+    },
+    "totalNutritionValue": {
+      "totalNutrients": 34.483,
+      "totGNutrition": 33.885999999999996,
+      "totMNutrition": 0.597,
+      "totVNutrition": 0
+    },
+    "source": "Foundation",
+    "generalItems": [
+      {
+        "nutrientName": "Energy",
+        "nutrientValue": 92,
+        "unit": "KCAL"
+      },
+      {
+        "nutrientName": "Total lipid (fat)",
+        "nutrientValue": 0.5,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Carbohydrate, by difference",
+        "nutrientValue": 5.6,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Protein",
+        "nutrientValue": 16.45,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Sugars, total including NLEA",
+        "nutrientValue": 5.23,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Fatty acids, total saturated",
+        "nutrientValue": 1.61,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Fiber, total dietary",
+        "nutrientValue": 0,
+        "unit": "G"
+      }
+    ],
+    "mineralItems": [
+      {
+        "nutrientName": "Sodium, Na",
+        "nutrientValue": 403,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Calcium, Ca",
+        "nutrientValue": 173,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Iron, Fe",
+        "nutrientValue": 0,
+        "unit": "MG"
+      }
+    ],
+    "vitaminItems": [
+      {
+        "nutrientName": "Vitamin C, total ascorbic acid",
+        "nutrientValue": 0,
+        "unit": "MG"
+      }
+    ]
+  }
+}

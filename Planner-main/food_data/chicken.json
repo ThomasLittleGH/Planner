@@ -1,0 +1,164 @@
+{
+  "status": "Success",
+  "data": {
+    "name": "Chicken",
+    "count": {
+      "generalItemsCount": 12,
+      "mineralItemCount": 8,
+      "vitaminItemCount": 8
+    },
+    "totalNutritionValue": {
+      "totalNutrients": 28.716379359999998,
+      "totGNutrition": 27.926240999999997,
+      "totMNutrition": 0.789355,
+      "totVNutrition": 0.00078336
+    },
+    "source": "Foundation",
+    "generalItems": [
+      {
+        "nutrientName": "Energy",
+        "nutrientValue": 275,
+        "unit": "kJ"
+      },
+      {
+        "nutrientName": "Cholesterol",
+        "nutrientValue": 86,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Protein",
+        "nutrientValue": 55.9,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Total lipid (fat)",
+        "nutrientValue": 5,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Fatty acids, total saturated",
+        "nutrientValue": 1.7,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Riboflavin",
+        "nutrientValue": 0.241,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Carbohydrate, by difference",
+        "nutrientValue": 0.0,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Folic acid",
+        "nutrientValue": 0,
+        "unit": "UG"
+      },
+      {
+        "nutrientName": "Caffeine",
+        "nutrientValue": 0,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Sugars, total including NLEA",
+        "nutrientValue": 0,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Fiber, total dietary",
+        "nutrientValue": 0,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Alcohol, ethyl",
+        "nutrientValue": 0,
+        "unit": "G"
+      }
+    ],
+    "mineralItems": [
+      {
+        "nutrientName": "Potassium, K",
+        "nutrientValue": 522,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Phosphorus, P",
+        "nutrientValue": 178,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Sodium, Na",
+        "nutrientValue": 60,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Magnesium, Mg",
+        "nutrientValue": 21,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Calcium, Ca",
+        "nutrientValue": 6,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Zinc, Zn",
+        "nutrientValue": 1.47,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Iron, Fe",
+        "nutrientValue": 0.82,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Copper, Cu",
+        "nutrientValue": 0.065,
+        "unit": "MG"
+      }
+    ],
+    "vitaminItems": [
+      {
+        "nutrientName": "Vitamin K (phylloquinone)",
+        "nutrientValue": 0.8,
+        "unit": "UG"
+      },
+      {
+        "nutrientName": "Vitamin B-12",
+        "nutrientValue": 0.56,
+        "unit": "UG"
+      },
+      {
+        "nutrientName": "Vitamin B-6",
+        "nutrientValue": 0.512,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Vitamin E (alpha-tocopherol)",
+        "nutrientValue": 0.27,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Vitamin A, RAE",
+        "nutrientValue": 0,
+        "unit": "UG"
+      },
+      {
+        "nutrientName": "Carotene, beta",
+        "nutrientValue": 0,
+        "unit": "UG"
+      },
+      {
+        "nutrientName": "Carotene, alpha",
+        "nutrientValue": 0,
+        "unit": "UG"
+      },
+      {
+        "nutrientName": "Vitamin C, total ascorbic acid",
+        "nutrientValue": 0,
+        "unit": "MG"
+      }
+    ]
+  }
+}

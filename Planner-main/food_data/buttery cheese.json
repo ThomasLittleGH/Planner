@@ -1,0 +1,79 @@
+{
+  "status": "Success",
+  "data": {
+    "name": "Cheese",
+    "count": {
+      "generalItemsCount": 7,
+      "mineralItemCount": 3,
+      "vitaminItemCount": 1
+    },
+    "totalNutritionValue": {
+      "totalNutrients": 38.840430000000005,
+      "totGNutrition": 38.236000000000004,
+      "totMNutrition": 0.6010300000000001,
+      "totVNutrition": 0.0034
+    },
+    "source": "Foundation",
+    "generalItems": [
+      {
+        "nutrientName": "Energy",
+        "nutrientValue": 120,
+        "unit": "KCAL"
+      },
+      {
+        "nutrientName": "Protein",
+        "nutrientValue": 6,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Carbohydrate, by difference",
+        "nutrientValue": 1,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Total lipid (fat)",
+        "nutrientValue": 10,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Fatty acids, total saturated",
+        "nutrientValue": 7,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Sugars, total including NLEA",
+        "nutrientValue": 0.0,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Fiber, total dietary",
+        "nutrientValue": 0.0,
+        "unit": "G"
+      }
+    ],
+    "mineralItems": [
+      {
+        "nutrientName": "Sodium, Na",
+        "nutrientValue": 529,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Calcium, Ca",
+        "nutrientValue": 150,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Iron, Fe",
+        "nutrientValue": 1.03,
+        "unit": "MG"
+      }
+    ],
+    "vitaminItems": [
+      {
+        "nutrientName": "Vitamin C, total ascorbic acid",
+        "nutrientValue": 3.4,
+        "unit": "MG"
+      }
+    ]
+  }
+}

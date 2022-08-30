@@ -1,0 +1,164 @@
+{
+  "status": "Success",
+  "data": {
+    "name": "Onions",
+    "count": {
+      "generalItemsCount": 11,
+      "mineralItemCount": 8,
+      "vitaminItemCount": 9
+    },
+    "totalNutritionValue": {
+      "totalNutrients": 16.741987400000003,
+      "totGNutrition": 16.522027,
+      "totMNutrition": 0.21241900000000002,
+      "totVNutrition": 0.007541400000000001
+    },
+    "source": "Survey (FNDDS)",
+    "generalItems": [
+      {
+        "nutrientName": "Carbohydrate, by difference",
+        "nutrientValue": 1.4,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Sugars, total including NLEA",
+        "nutrientValue": 0.6,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Fiber, total dietary",
+        "nutrientValue": 1.7,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Protein",
+        "nutrientValue": 0.1,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Total lipid (fat)",
+        "nutrientValue": 0.1,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Fatty acids, total saturated",
+        "nutrientValue": 0.042,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Energy",
+        "nutrientValue": 6,
+        "unit": "KCAL"
+      },
+      {
+        "nutrientName": "Alcohol, ethyl",
+        "nutrientValue": 0,
+        "unit": "G"
+      },
+      {
+        "nutrientName": "Caffeine",
+        "nutrientValue": 0,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Folic acid",
+        "nutrientValue": 0,
+        "unit": "UG"
+      },
+      {
+        "nutrientName": "Cholesterol",
+        "nutrientValue": 0,
+        "unit": "MG"
+      }
+    ],
+    "mineralItems": [
+      {
+        "nutrientName": "Potassium, K",
+        "nutrientValue": 146,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Phosphorus, P",
+        "nutrientValue": 29,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Calcium, Ca",
+        "nutrientValue": 3.45,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Magnesium, Mg",
+        "nutrientValue": 10,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Sodium, Na",
+        "nutrientValue": 4,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Iron, Fe",
+        "nutrientValue": 0.21,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Zinc, Zn",
+        "nutrientValue": 0.17,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Copper, Cu",
+        "nutrientValue": 0.039,
+        "unit": "MG"
+      }
+    ],
+    "vitaminItems": [
+      {
+        "nutrientName": "Vitamin C, total ascorbic acid",
+        "nutrientValue": 7.4,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Carotene, beta",
+        "nutrientValue": 1,
+        "unit": "UG"
+      },
+      {
+        "nutrientName": "Vitamin K (phylloquinone)",
+        "nutrientValue": 0.4,
+        "unit": "UG"
+      },
+      {
+        "nutrientName": "Vitamin B-6",
+        "nutrientValue": 0.12,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Vitamin E (alpha-tocopherol)",
+        "nutrientValue": 0.02,
+        "unit": "MG"
+      },
+      {
+        "nutrientName": "Vitamin A, RAE",
+        "nutrientValue": 0,
+        "unit": "UG"
+      },
+      {
+        "nutrientName": "Carotene, alpha",
+        "nutrientValue": 0,
+        "unit": "UG"
+      },
+      {
+        "nutrientName": "Vitamin D (D2 + D3)",
+        "nutrientValue": 0,
+        "unit": "UG"
+      },
+      {
+        "nutrientName": "Vitamin B-12",
+        "nutrientValue": 0,
+        "unit": "UG"
+      }
+    ]
+  }
+}
